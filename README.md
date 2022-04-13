@@ -1,4 +1,5 @@
 # minutiae
+minutiae: "the small, precise, or trivial details of something"
 
 Minutia: singular, \muh-NOO-shee-uh\ or \muh-NOO-shuh\, latin for "smallness".
 Minutiae: plural, \muh-NOO-shee-ee\, latin for "trifles" or "details".
