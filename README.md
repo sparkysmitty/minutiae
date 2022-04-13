@@ -1,6 +1,6 @@
 ## Minutiae
 *plural, \muh-NOO-shee-ee\, latin for "trifles" or "details"*
-*## Minutia*
+## *Minutia*
 *singular, \muh-NOO-shee-uh\ or \muh-NOO-shuh\, latin for "smallness"*
 
 1. Minutia comes from minutus, the adjective for *"small"*.    &nbsp;  From minutus we get *"minute"*.    &nbsp;  That's usually accepted as 60 seconds -- except when it's just *"an instant or point of time"*. 
