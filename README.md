@@ -7,4 +7,4 @@
 
 2. Merriam-Webster believes that Minutiae is merging with Minutia, based upon their analysis of spoken transcripts, and *"being re-analyzed as a zero plural."*  &nbsp;  And who are we to disagree?
 
-3. In summary: this is about *"the small, precise, or trivial details of something"*.    &nbsp;  Personally, I like **muh-NOO-shuh**.    &nbsp;  But that's getting into the minutiae.
+3. In summary: this is about *"the small, precise, or trivial details of something"*.    &nbsp;  Personally, I like **muh-NOO-shuh** -- it's easier to say.   &nbsp;  But that's getting into the minutiae.
