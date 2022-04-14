@@ -1,8 +1,12 @@
 # Rock, Paper, Scissors
 
-## The game is between two people who make hand gestures: rock (fist), paper (hand flat), and scissors (index and middle fingers out only).  The logic is circular: rock breaks scissors, scissors cuts paper, paper covers rock.  A draw results if both play the same gesture and the game is repeated.
+## The game is between two people who make hand gestures: rock (fist), paper (hand flat), and scissors (index and middle fingers out only).  
 
-## Used in a US Federal court case to break the "gordian knot" (in the words of a frustrated judge) that lawyeresque posturing had created.
+## The logic is circular: rock breaks scissors, scissors cuts paper, paper covers rock.  
+
+## A draw results if both play the same gesture and the game is repeated.
+
+## Used in a US Federal court case to break a "gordian knot" (said the frustrated judge) that "lawyeresque posturing" had created.
 
 ## Listening to the advice of an 11-year-old who counseled her elders to "play rock" led Christies to make millions of dollars over Sotheby's, who belittled studying the logic behind the moves.
 
