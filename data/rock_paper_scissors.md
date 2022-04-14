@@ -1,6 +1,6 @@
 # Rock, Paper, Scissors
 
-## The game is between two people who make hand gestures: rock (fist), paper (hand flat), and scissors (index and middle fingers out only).  
+## The game is between two people who make simultaneous hand gestures, often toward each other, representing: rock (fist), paper (hand flat), or scissors (index and middle fingers out only).  
 
 ## The logic is circular: rock breaks scissors, scissors cuts paper, paper covers rock.  
 
