@@ -2,10 +2,7 @@
 
 ## Spam (as in "ham") is revered in Hawaii
 
-It's manufactured in special ways just for them, with many 
-[different varieties available](https://en.wikipedia.org/wiki/Spam_(food)#Varieties){:target="_blank"}.  "Macadamia Nut" must be particularly tasty.
-
-The yearly [Waikiki Spam Jam](https://spamjamhawaii.com) even has calendar girls, and big-name corporate sponsors.
+It's manufactured in special ways just for them, with many <a href="https://en.wikipedia.org/wiki/Spam_(food)#Varieties" target="_blank">different varieties available</a>.  "Macadamia Nut" must be particularly tasty.  There's even a yearly [Waikiki Spam Jam](https://spamjamhawaii.com)!
 
 ## Spam (not the ham) is loathed in email
 
