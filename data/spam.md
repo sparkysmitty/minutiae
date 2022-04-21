@@ -17,6 +17,6 @@ Fun fact: [Gary Thuerk sent the first spam email](https://moosend.com/blog/gary-
 
 ## Hormel: the maker of Spam
 
-They say Hormel isn't really happy with devestating email invasions named after their flagship product, but they made the most of it for the [Monty Python SpamALot musical](https://live.staticflickr.com/132/317748112_24b3d622d7_b.jpg).
+They say Hormel isn't really happy with devastating email invasions named after their flagship product, but they made the most of it for the [Monty Python SpamALot musical](https://live.staticflickr.com/132/317748112_24b3d622d7_b.jpg).
 
 This is particulary ironic, considering how a famous line from that is "I fart in your general direction".
