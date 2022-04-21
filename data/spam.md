@@ -1,12 +1,12 @@
-# SPAM - A product that keeps on giving
+# SPAM - spam - spam - spam - spam - and things
 
-## Spam (as in "ham") is revered in Hawaii
+## Spam (as in ham) is revered in Hawaii
 
 It's manufactured in special ways just for them, with many <a href="https://en.wikipedia.org/wiki/Spam_(food)#Varieties" target="_blank">different varieties available</a>.  "Macadamia Nut" must be particularly tasty.  There's even a yearly [Waikiki Spam Jam](https://spamjamhawaii.com)!
 
 ## Spam (not the ham) is loathed in email
 
-Unsolicited emails [were named after](http://www.merriam-webster.com/dictionary/spam) "a skit on the British television series Monty Python's Flying Circus in which chanting of the word Spam overrides the other dialogue".
+Unsolicited emails [were named after "a skit](http://www.merriam-webster.com/dictionary/spam) on the British television series Monty Python's Flying Circus in which chanting of the word Spam overrides the other dialogue".
 
 You have to see it yourself to appreciate the [the powerful Spam chant of the Vikings](https://www.dailymotion.com/video/x9fly1), adding a robust flavor over all other conversations.
 
